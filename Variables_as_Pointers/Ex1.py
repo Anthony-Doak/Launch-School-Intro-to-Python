@@ -1,0 +1,2 @@
+my_object1 == my_object2 # objects equal each other. two objects are different but have same value
+my_object1 is my_object2 # objects are the same ID as each other. two variables reference the same object 
